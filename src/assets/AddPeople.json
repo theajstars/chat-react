@@ -1,0 +1,41 @@
+{
+    "NewPeople": [
+        {
+            "name": "Tony Stank",
+            "email": "iamironman@starktech.avg",
+            "avatar": "https://i.imgur.com/op4VpH7.png",
+            "messages": []
+        },
+        {
+            "name": "Mordecai",
+            "email": "rigbybuddy@thepark.cn",
+            "avatar": "https://i.imgur.com/op4VpH7.png",
+            "messages": []
+        },
+        {
+            "name": "Timothy Abigail",
+            "email": "abigirl@bc.in",
+            "avatar": "https://i.imgur.com/op4VpH7.png",
+            "messages": []
+        },
+        {
+            "name": "Peter (the rock)",
+            "email": "speter@disciple.christ",
+            "avatar": "https://i.imgur.com/op4VpH7.png",
+            "messages": []
+        },
+        
+        {
+            "name": "Bruce Wayne",
+            "email": "notbatman@wayneindustries.gotham",
+            "avatar": "https://i.imgur.com/op4VpH7.png",
+            "messages": []
+        },
+        {
+            "name": "Mark Twain",
+            "email": "huckleberry@tomsawyer.novel",
+            "avatar": "https://i.imgur.com/op4VpH7.png",
+            "messages": []
+        }
+    ]
+}

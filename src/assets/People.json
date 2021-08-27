@@ -1,0 +1,136 @@
+{
+    "PeopleArray": [
+        {
+            "name": "Oluwaferanmi Ajiboye",
+            "email": "drbraavosi@theajstars.all",
+            "avatar": "https://i.imgur.com/jmnVMBf.png",
+            "messages": [
+                {
+                    "type": "sent",
+                    "body": "Why did you do it?",
+                    "date": "1525818176463"
+                },
+                {
+                    "type": "received",
+                    "body": "You know why 👀",
+                    "date": "1525818190000"
+                },
+                {
+                    "type": "received",
+                    "body": "I can't become a great developer if I eat too much beans 😓😓",
+                    "date": "1525818190000"
+                }
+            ]
+        },
+        {
+            "name": "Jon Snow",
+            "email": "Kinginthenorth@winterfell.westeros",
+            "avatar": "https://i.imgur.com/o9axORP.png",
+            "messages": [
+                {
+                    "type": "sent",
+                    "body": "Where will you go?",
+                    "date": "1525818176463"
+                },
+                {
+                    "type": "received",
+                    "body": "Where will WE go?",
+                    "date": "1525818190000"
+                },
+                {
+                    "type": "received",
+                    "body": "Where I go, you go too!",
+                    "date": "1525818190000"
+                }
+            ]
+        },
+        {
+            "name": "Winston Churchill",
+            "email": "primeminister@theuk.ww2",
+            "avatar": "https://i.imgur.com/op4VpH7.png",
+            "messages": [
+                {
+                    "type": "sent",
+                    "body": "Shall we shall fight on the hills and in the cities?",
+                    "date": "1258182278572"
+                },
+                {
+                    "type": "received",
+                    "body": "And on the plains, beaches and mountains ",
+                    "date": "1258182999922"
+                }
+            ]
+        },
+        {
+            "name": "Kevin Debruyne",
+            "email": "assistaman@eithad.city",
+            "avatar": "https://i.imgur.com/op4VpH7.png",
+            "messages": [
+                {
+                    "type": "received",
+                    "body": "Let me talk!",
+                    "date": "1258182278572"
+                },
+                {
+                    "type": "received",
+                    "body": "But let me talk!!",
+                    "date": "1258182999922"
+                },
+                {
+                    "type": "received",
+                    "body": "Tell them to let me talk!!!",
+                    "date": "1258182278572"
+                }
+            ]
+        },
+        {
+            "name": "Marshmallow ",
+            "email": "mellowhead@dj.music",
+            "avatar": "https://i.imgur.com/op4VpH7.png",
+            "messages": [
+                {
+                    "type": "received",
+                    "body": "Bass is kicking",
+                    "date": "1258182278572"
+                },
+                {
+                    "type": "received",
+                    "body": "Drums is drumming",
+                    "date": "1258182999922"
+                },
+                {
+                    "type": "sent",
+                    "body": "Beating down the block you can hear me coming",
+                    "date": "1258182278572"
+                }
+            ]
+        },
+        {
+            "name": "Hodor",
+            "email": "Holddoor@giants.westeros",
+            "avatar": "https://i.imgur.com/3uXKLBx.png",
+            "messages": [
+                {
+                    "type": "received",
+                    "body": "Hodor!",
+                    "date": "1605818227857"
+                },
+                {
+                    "type": "sent",
+                    "body": "What?",
+                    "date": "1605818227857"
+                },
+                {
+                    "type": "received",
+                    "body": "Hodor!",
+                    "date": "1605818299999"
+                },
+                {
+                    "type": "sent",
+                    "body": "Forget this",
+                    "date": "1605829299999"
+                }
+            ]
+        }
+    ]
+}

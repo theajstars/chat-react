@@ -1,0 +1,45 @@
+@import url('./assets/css/fonts.css');
+body{
+  background: linear-gradient(60deg, rgba(1,0,25,1) 19%, rgba(7,4,34,1) 56%, rgba(1,0,22,1) 100%);
+  padding: 1vh 3vw 0vh 2vw;
+  /* padding: 3vh 0px; */
+  margin-left: 3vw;
+  height: 100vh;
+  box-sizing: border-box;
+  border-left: 0.15vw solid #0303315e;
+}
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #4D38A3; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #362772;
+}
+.title-header{
+  color: #ebebeb;
+  font-weight: 900;
+  font-family: 'Ubuntu';
+  font-size: 2rem;
+  word-spacing: 1vw;
+}
+.main{
+  border-top: 0.15vw solid #0303315e;
+  margin-left: -2vw;
+  margin-top: 3vh;
+  margin-right: -3vw;
+  box-sizing: border-box;
+  padding: 3vh 0vw 3vh 2vw;
+
+}

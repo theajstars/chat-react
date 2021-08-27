@@ -1,0 +1,156 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.add-contacts-section{
+    background-color: red;
+    position: absolute;
+    height: 70vh;
+    width: fit-content;
+    background-color: white;
+    padding: 1vh 3vw;
+    display: none;
+    overflow: auto;
+}
+.discover-head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1vh;
+}
+.add-people{
+    box-shadow: 0px 2px 3px 0px #cccccc;
+}
+
+.close-discover-menu{
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: 0.1s;
+}
+.close-discover-menu:active, .close-discover-menu:hover{
+    color: rgb(20, 20, 20);
+}
+.add-friend{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px 0;
+    background-color: #060420;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 7px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.add-friend:hover, .add-friend:active{
+    background-color: #0e0844;
+}
+.add-friend img{
+    height: 40px;
+}
+.friend-name{
+    font-family: 'Ubuntu';
+    color: snow;
+    font-size: 0.9rem;
+}
+.add-friend-details{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.friend-added{
+    color: cornflowerblue;
+    font-family: 'Titillium Web';
+    font-size: 0.8rem;
+    display: none;
+    transition: 0.8s;
+}
+.people-main{
+    display: flex;
+    width: fit-content;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 80vh;
+    transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.people-actions{
+    margin-bottom: 2vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.filter-people, .add-person{
+    outline: none;
+    border: none;
+    transition: 0.15s;
+}
+.filter-people{
+    padding: 0 1.1vh;
+    height: 5vh;
+    margin-right: 1vw;
+    font-family: 'Ubuntu';
+    font-size: 1rem;
+    border-radius: 2px;
+}
+.add-person{
+    color: #cccccc;
+    font-size: 1rem;
+    cursor: pointer;
+    width: fit-content;
+    padding: 7px;
+    box-sizing: border-box;
+    height: fit-content;
+    border-radius: 50%;
+}
+.add-person:hover{
+    color: white;
+    background-color: #0d0844;
+}
+.people{
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+.person{
+    margin: 0.8vh 0;
+    padding: 1.7vh;
+    min-width: fit-content;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.12s;
+}
+.person:hover{
+    background-color: #0a062e;
+}
+.person img{
+    width: 3vw;
+}
+.person-name{
+    color: #cccccc;
+    font-family: 'Ubuntu';
+    font-weight: 600;
+    margin-left: 0.8vw;
+}
+.send-feedback{
+    font-size: 1.1rem;
+    font-family: 'Muli';
+    cursor: pointer;
+    color: white;
+    min-width: 20vw;
+    box-sizing: border-box;
+    padding: 1.6vh 0;
+    background-color: #0a062e;
+    transition: 0.12s;
+    margin-top: 2vh;
+}
+.send-feedback:hover{
+    opacity: 0.8;
+}
